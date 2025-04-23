@@ -1,5 +1,7 @@
 # 10871번 X보다 작은 수
 
+<pre>
+<code>
 ```java
 import java.util.Scanner;
 
@@ -26,3 +28,5 @@ public class Main {
     
 }
 ```
+</code>
+</pre>
